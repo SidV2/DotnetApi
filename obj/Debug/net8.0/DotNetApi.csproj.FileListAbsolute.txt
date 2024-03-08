@@ -138,3 +138,4 @@
 /Users/sidharthaverma/development-side/DotnetApi/obj/Debug/net8.0/DotNetApi.pdb
 /Users/sidharthaverma/development-side/DotnetApi/obj/Debug/net8.0/DotNetApi.genruntimeconfig.cache
 /Users/sidharthaverma/development-side/DotnetApi/obj/Debug/net8.0/ref/DotNetApi.dll
+/Users/sidharthaverma/development-side/DotnetApi/obj/Debug/net8.0/DotNetApi.sourcelink.json
