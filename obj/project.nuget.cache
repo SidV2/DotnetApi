@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "FI0zvnrelwUiGVBflt9W8Qd1r6KBXsazkl3GieA22hVn9O+JcUbTKpl5QU8EgY7kQX+b4dxdTOwVX+NV5hw0LQ==",
+  "dgSpecHash": "+wMpAK9K57LCgBdRcT3uSb0xLQF9fJpXSdVf97X9V/wR4R5Yj6Uc3uqu8Ic4drix1nWbrp5rfavpIKlB+sQOPg==",
   "success": true,
   "projectFilePath": "/Users/sidharthaverma/development-side/DotnetApi/DotNetApi.csproj",
   "expectedPackageFiles": [
@@ -16,9 +16,11 @@
     "/Users/sidharthaverma/.nuget/packages/microsoft.entityframeworkcore/8.0.2/microsoft.entityframeworkcore.8.0.2.nupkg.sha512",
     "/Users/sidharthaverma/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.2/microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
     "/Users/sidharthaverma/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.2/microsoft.entityframeworkcore.analyzers.8.0.2.nupkg.sha512",
+    "/Users/sidharthaverma/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.2/microsoft.entityframeworkcore.relational.8.0.2.nupkg.sha512",
     "/Users/sidharthaverma/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/sidharthaverma/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "/Users/sidharthaverma/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",
+    "/Users/sidharthaverma/.nuget/packages/microsoft.extensions.configuration.abstractions/8.0.0/microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "/Users/sidharthaverma/.nuget/packages/microsoft.extensions.dependencyinjection/8.0.0/microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
     "/Users/sidharthaverma/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/8.0.0/microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
     "/Users/sidharthaverma/.nuget/packages/microsoft.extensions.logging/8.0.0/microsoft.extensions.logging.8.0.0.nupkg.sha512",
