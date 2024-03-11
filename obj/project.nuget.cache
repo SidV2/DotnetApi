@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "+wMpAK9K57LCgBdRcT3uSb0xLQF9fJpXSdVf97X9V/wR4R5Yj6Uc3uqu8Ic4drix1nWbrp5rfavpIKlB+sQOPg==",
+  "dgSpecHash": "yu5dX5cx+4TBW808ut/XUKu7VPD7rV+kpep1j8691E99fBZL5qkTvrSR3cBhU1e276Iqs7U0Fb5sEE3mpOhakw==",
   "success": true,
   "projectFilePath": "/Users/sidharthaverma/development-side/DotnetApi/DotNetApi.csproj",
   "expectedPackageFiles": [
@@ -17,6 +17,7 @@
     "/Users/sidharthaverma/.nuget/packages/microsoft.entityframeworkcore.abstractions/8.0.2/microsoft.entityframeworkcore.abstractions.8.0.2.nupkg.sha512",
     "/Users/sidharthaverma/.nuget/packages/microsoft.entityframeworkcore.analyzers/8.0.2/microsoft.entityframeworkcore.analyzers.8.0.2.nupkg.sha512",
     "/Users/sidharthaverma/.nuget/packages/microsoft.entityframeworkcore.relational/8.0.2/microsoft.entityframeworkcore.relational.8.0.2.nupkg.sha512",
+    "/Users/sidharthaverma/.nuget/packages/microsoft.entityframeworkcore.sqlserver/7.0.0/microsoft.entityframeworkcore.sqlserver.7.0.0.nupkg.sha512",
     "/Users/sidharthaverma/.nuget/packages/microsoft.extensions.apidescription.server/6.0.5/microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
     "/Users/sidharthaverma/.nuget/packages/microsoft.extensions.caching.abstractions/8.0.0/microsoft.extensions.caching.abstractions.8.0.0.nupkg.sha512",
     "/Users/sidharthaverma/.nuget/packages/microsoft.extensions.caching.memory/8.0.0/microsoft.extensions.caching.memory.8.0.0.nupkg.sha512",

@@ -139,3 +139,7 @@
 /Users/sidharthaverma/development-side/DotnetApi/obj/Debug/net8.0/DotNetApi.genruntimeconfig.cache
 /Users/sidharthaverma/development-side/DotnetApi/obj/Debug/net8.0/ref/DotNetApi.dll
 /Users/sidharthaverma/development-side/DotnetApi/obj/Debug/net8.0/DotNetApi.sourcelink.json
+/Users/sidharthaverma/development-side/DotnetApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.dll
+/Users/sidharthaverma/development-side/DotnetApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/sidharthaverma/development-side/DotnetApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/sidharthaverma/development-side/DotnetApi/bin/Debug/net8.0/Microsoft.EntityFrameworkCore.SqlServer.dll
