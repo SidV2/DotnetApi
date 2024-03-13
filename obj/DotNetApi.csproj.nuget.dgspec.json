@@ -43,21 +43,21 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
-            "Microsoft.AspNetCore.OpenApi": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
-              "version": "[5.2.0, )"
+              "version": "[5.0.1, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.Relational": {
               "target": "Package",
-              "version": "[8.0.2, )"
+              "version": "[7.0.0, )"
             },
             "Microsoft.EntityFrameworkCore.SqlServer": {
               "target": "Package",
@@ -69,11 +69,11 @@
             },
             "automapper": {
               "target": "Package",
-              "version": "[13.0.1, )"
+              "version": "[12.0.0, )"
             },
             "dapper": {
               "target": "Package",
-              "version": "[2.1.35, )"
+              "version": "[2.0.123, )"
             }
           },
           "imports": [
